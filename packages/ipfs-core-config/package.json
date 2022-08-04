@@ -82,7 +82,7 @@
   "dependencies": {
     "@chainsafe/libp2p-gossipsub": "^1.0.0",
     "@libp2p/floodsub": "^1.0.2",
-    "@libp2p/logger": "^1.1.4",
+    "@libp2p/logger": "^2.0.0",
     "@libp2p/mdns": "^1.0.3",
     "@libp2p/tcp": "^1.0.6",
     "@libp2p/webrtc-star": "^1.0.6",

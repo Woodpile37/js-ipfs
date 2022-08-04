@@ -115,7 +115,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "@libp2p/logger": "^1.1.4",
+    "@libp2p/logger": "^2.0.0",
     "@multiformats/multiaddr": "^10.0.0",
     "@multiformats/multiaddr-to-uri": "^9.0.1",
     "any-signal": "^3.0.0",
