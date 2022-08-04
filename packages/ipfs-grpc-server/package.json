@@ -53,7 +53,7 @@
     "it-pipe": "^2.0.3",
     "it-pushable": "^2.0.1",
     "@multiformats/multiaddr": "^10.0.0",
-    "nanoid": "^3.1.23",
+    "nanoid": "^4.0.0",
     "protobufjs": "^6.10.2",
     "uint8arrays": "^3.0.0",
     "ws": "^8.5.0"
